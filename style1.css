@@ -1,0 +1,75 @@
+ body{
+            background-image: url("https://topbackgroundwallpaper.com/wp-content/uploads/2018/01/newspaper-wallpaper-australia-otr-ad-background.jpg");
+            
+        }
+        h1{
+            text-align: center; 
+            background-color: grey;
+            text-shadow:red;
+        }
+        a.margin-left{
+            color: white;
+            margin-left: 10px;
+        }   
+        h1.none{
+            text-shadow: 0 0 3px #FF0000;
+            text-align: center; 
+            background-color:black;
+        }
+        hr{
+            background-color: black; 
+            height:5px
+        }
+        div{
+            margin: 50px;
+             box-sizing: content-box; 
+             border: solid; 
+             background-image: url("http://www.efoza.com/postpic/2012/04/good-professional-website-backgrounds_664590.jpg");
+        }
+        h2{
+           color: red;
+            text-align: center;
+            text-decoration: underline; 
+        }
+        p{
+            font: bold;
+             text-shadow: red; 
+            text-align: center;
+        }
+        a{
+            color: red;
+            text-decoration: none;
+        }
+        a.b1{
+         color: red;
+            text-decoration: none;   
+        }
+        a.none{
+            color: white;
+            text-decoration: none;
+        }
+        img{
+            float: left; 
+            margin: 10px
+
+        }
+        input[type=text] {
+            width: 100px;
+            box-sizing: border-box;
+            border: red;
+            border-radius: 4px;
+            font-size: 16px;
+            background-color: white;
+            padding: 6px 20px 8px 20px;
+            transition: width 0.3s ease-in-out;
+            margin: 5px;
+        }
+
+        input[type=text]:focus {
+            width: 30%;
+        }
+        form{
+            text-align: right;
+            display: inline; 
+            margin-left: 100px
+        }
